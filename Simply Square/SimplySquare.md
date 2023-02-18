@@ -30,6 +30,6 @@ Simply Square:
     width: 50vw;
     height: 66.6vh;
     background: #b5e0ba;
-    box-shadow: 0 0 0 200px #5d3a3a;
+    box-shadow: 0 0 0 200px #5d3a3a; 
   } 
 </style> -->
